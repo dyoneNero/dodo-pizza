@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dododo-pizza/static/css/main.8e805fc3.css",
+    "main.js": "/dododo-pizza/static/js/main.5dda68fa.js",
+    "static/media/guess.jpg": "/dododo-pizza/static/media/guess.558b1df7131c5174c624.jpg",
+    "static/media/child.jpg": "/dododo-pizza/static/media/child.32c43c499efddc91f5a6.jpg",
+    "static/media/green_light.jpg": "/dododo-pizza/static/media/green_light.4146fa4f7489793c8417.jpg",
+    "static/media/coffee.jpg": "/dododo-pizza/static/media/coffee.6ffa69734661ddbbf9cb.jpg",
+    "static/media/path.jpg": "/dododo-pizza/static/media/path.48e64fb4313ec4504783.jpg",
+    "static/media/pay.jpg": "/dododo-pizza/static/media/pay.1062425bb20011b2afcf.jpg",
+    "index.html": "/dododo-pizza/index.html",
+    "main.8e805fc3.css.map": "/dododo-pizza/static/css/main.8e805fc3.css.map",
+    "main.5dda68fa.js.map": "/dododo-pizza/static/js/main.5dda68fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e805fc3.css",
+    "static/js/main.5dda68fa.js"
+  ]
+}
