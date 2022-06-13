@@ -1,0 +1,30 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/e33713bfe26f419ea16b360d8d0e2b63_292x292.jpeg",
+    "titleCard": "Айс капучино",
+    "textCard": "Холодный напиток для тех, кто даже в жару наслаждается кофе. В составе пломбир, эспрессо и молоко",
+    "costCard": "199 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/a655c597c25c4c638498223c286654a1_292x292.jpeg",
+    "titleCard": "Молочный коктейль с печеньем Орео",
+    "textCard": "Как вкуснее есть печенье? Его лучше пить! Попробуйте молочный коктейль с мороженым и дробленым печеньем «Орео»",
+    "costCard": "199 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/24518a4dbb96407a9ca46b43d1ce731e_292x292.jpeg",
+    "titleCard": "Классический молочный коктейль \uD83D\uDC76",
+    "textCard": "В мире так много коктейлей, но классика — вечна. Попробуйте наш молочный напиток с мороженым",
+    "costCard": "179 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/743d0934d8b248548fd59ede5c15f339_292x292.jpeg",
+    "titleCard": "Клубничный молочный коктейль \uD83D\uDC76",
+    "textCard": "Не важно, какое время года на улице, этот коктейль с клубничным сиропом вернет вас в лето с одного глотка",
+    "costCard": "199 ₽"
+  }
+]

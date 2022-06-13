@@ -1,0 +1,30 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/b780799905744d878c800328ef20a4ec_292x292.jpeg",
+    "titleCard": "Додо Книги 1+2",
+    "textCard": "Набор из двух книг — «Додо Книга 1» и «Додо Книга 2». Рассказываем об истории, ценностях и развитии компании",
+    "costCard": "195 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/9ab8e6763b5d42179e9973114c488b74_292x292.jpeg",
+    "titleCard": "Коллекционный магнит «Додо Пиццы»",
+    "textCard": "Один из серии сувенирных магнитов Додо Пиццы",
+    "costCard": "10 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/ceb821c2f41a4e79a2f06d2438b808e2_292x292.jpeg",
+    "titleCard": "Книга «И ботаники делают бизнес 1+2»",
+    "textCard": "Удивительная история основателя Додо Пиццы — Федора Овчинникова: от провала до миллиона",
+    "costCard": "395 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/036b0aa1963d45d2b8c324d8d7fbeccf_292x292.jpeg",
+    "titleCard": "Додо Раскраска",
+    "textCard": "",
+    "costCard": "10 ₽"
+  }
+]

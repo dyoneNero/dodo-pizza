@@ -1,0 +1,30 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/6ff8acf8c61c4aac9963134090fcd5c5_292x292.webp",
+    "titleCard": "Комбо от 659 ₽",
+    "textCard": "Кому-кому только одному. Маленькая пицца, закуска, напиток и соус. Продукты в комбо можно менять",
+    "costCard": "659 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/166e2676610246988390043adba02075_292x292.webp",
+    "titleCard": "3 пиццы от 849 ₽",
+    "textCard": "Настоящая дегустация. Три маленькие пиццы по суперцене. Пиццы в комбо можно менять",
+    "costCard": "849 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/3dd695c73c494b2b9dd274738cf496d3_292x292.webp",
+    "titleCard": "2 пиццы",
+    "textCard": "Парочка, что надо. 2 средних пиццы. Пиццы в комбо можно менять",
+    "costCard": "1 089 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/7beab954b188409ba30dad2c2fda13e2_292x292.webp",
+    "titleCard": "3 пиццы",
+    "textCard": "Три удовольствия в нашем меню — это 3 средних пиццы на ваш выбор. Пиццы в комбо можно менять",
+    "costCard": "1 199 ₽"
+  }
+]

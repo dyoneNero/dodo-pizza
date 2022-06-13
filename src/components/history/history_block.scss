@@ -1,0 +1,40 @@
+@import "../../App.scss";
+
+.history_block{
+  padding-top: 12px;
+  height: 274px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__container{
+    overflow: hidden;
+    width: 1280px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.history_card{
+  width: 202px;
+  height: 250px;
+  border-radius: 20px;
+  border: $ColorOrange solid 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 13.5px;
+  a{
+    width: 200px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+      width: 190px;
+      height: 240px;
+      border-radius: 15px;
+    }
+  }
+}

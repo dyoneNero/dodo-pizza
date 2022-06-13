@@ -1,0 +1,30 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/f830f6e498fc4a44af7a756441121021_292x292.jpeg",
+    "titleCard": "Додстер Песто",
+    "textCard": "Горячая закуска с цыпленком, любимым соусом песто, томатами и моцареллой в тонкой зеленой лепешке",
+    "costCard": "199 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/dca9c4ff00a54cde85f741ea2ee37b3b_292x292.jpeg",
+    "titleCard": "Додстер",
+    "textCard": "Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке",
+    "costCard": "179 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/14afcd3cc7094ee49a8b71953ef9f777_292x292.jpeg",
+    "titleCard": "Острый Додстер",
+    "textCard": "Горячая закуска с цыпленком, перчиком халапеньо, маринованными огурчиками, томатами, моцареллой и соусом барбекю в тонкой пшеничной лепешке",
+    "costCard": "179 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/b1d0e3d3dcd24644aa37665ba4da13c3_292x292.jpeg",
+    "titleCard": "Грибной Стартер",
+    "textCard": "Горячая закуска с шампиньонами, моцареллой и соусом ранч в тонкой пшеничной лепешке",
+    "costCard": "179 ₽"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/8c6f4026dad743c599e85819ffff3e9c_292x292.jpeg",
+    "titleCard": "Кофе Американо",
+    "textCard": "Пара глотков горячего Американо, и вы будете готовы покорять этот день",
+    "costCard": "109 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/d23279f4fcd04aa6815db4c369b92b2e_292x292.jpeg",
+    "titleCard": "Кофе Ванильный капучино",
+    "textCard": "Нежнее, еще нежнее! Это кофейный напиток со вспененным молоком и ванильным сиропом",
+    "costCard": "159 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/5668e383e75344bc86ae5dfe05539406_292x292.jpeg",
+    "titleCard": "Кофе Карамельный капучино",
+    "textCard": "Если не шоколад, то карамель! А капучино с карамельным сиропом особенно хорош",
+    "costCard": "159 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/22d4b4fd475e4242a7b9305c502b38e4_292x292.jpeg",
+    "titleCard": "Кофе Капучино",
+    "textCard": "Король среди кофейных напитков — классический капучино. Для любителей сбалансированного кофейно-молочного вкуса",
+    "costCard": "149 ₽"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/02270e55a3204ccaaf26d75f0c817d28_292x292.jpeg",
+    "titleCard": "Белая пепперони",
+    "textCard": "Пикантная пепперони, соус альфредо, моцарелла",
+    "costCard": "от 493 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/fd9cf22de8054f3e896969e6fb0e2c21_292x292.jpeg",
+    "titleCard": "Чоризо фреш",
+    "textCard": "Томатный соус, моцарелла, острая чоризо, сладкий перец",
+    "costCard": "от 289 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/45e50d71297c411bbe1f37f506f9ab18_292x292.jpeg",
+    "titleCard": "Домашняя",
+    "textCard": "Пикантная пепперони, ветчина, маринованные огурчики, томаты, моцарелла, томатный соус",
+    "costCard": "от 439 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/5630c6ed3f394c7ba25e1ef79a67b7ee_292x292.jpeg",
+    "titleCard": "Ветчина и сыр",
+    "textCard": "Ветчина, моцарелла, соус альфредо",
+    "costCard": "от 339 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/45e50d71297c411bbe1f37f506f9ab18_292x292.jpeg",
+    "titleCard": "Домашняя",
+    "textCard": "Пикантная пепперони, ветчина, маринованные огурчики, томаты, моцарелла, томатный соус",
+    "costCard": "от 439 ₽"
+  },
+  {
+    "idCard": 0,
+    "imageCard": "https://dodopizza-a.akamaihd.net/static/Img/Products/5630c6ed3f394c7ba25e1ef79a67b7ee_292x292.jpeg",
+    "titleCard": "Ветчина и сыр",
+    "textCard": "Ветчина, моцарелла, соус альфредо",
+    "costCard": "от 339 ₽"
+  }
+]

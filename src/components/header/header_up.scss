@@ -1,0 +1,157 @@
+@import "../../App";
+
+.header_up{
+  font-weight: 500;
+  background-color: #FFFF;
+  display: flex;
+  justify-content: center;
+}
+
+.header_up__container{
+  width: 1280px;
+  height: 96px;
+  padding: 24px 0px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left_path{
+  width: 732px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  &-delivery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    &-text{
+      font-size: 18px;
+    }
+    &-city{
+      font-size: 18px;
+      color: $ColorOrange;
+    }
+    &-score_time{
+      cursor: pointer;
+      width: 100%;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      position: relative;
+      &-trigger{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+      }
+      &-time{
+        margin-left: 15px;
+      }
+      &-dot_block{
+        padding-top: 5px;
+        box-sizing: unset;
+        width: 20px;
+        height: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: start;
+        &-dot{
+          margin-top:3px;
+          width: 4px;
+          height: 4px;
+          background-color: $ColorBlack;
+          border-radius: 2px;
+        }
+        &-popup{
+          &-hidden{
+            z-index: 6;
+            opacity: 0;
+            position: absolute;
+            top: 15px;
+            width: 15px;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            path{
+              fill: #373535;
+            }
+            &-content{
+              cursor: auto;
+              width: 450px;
+              height: 163px;
+              background-color: black;
+              position: absolute;
+              top: 9px;
+              background-color: #373535;
+              border-radius: 10px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  &-phone{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    font-size: 18px;
+    color: #000000;
+    span{
+      font-size: 15px;
+      color: #999999;
+    }
+  }
+}
+
+.right_path{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  &-dodo_coins{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 32px;
+    &:hover{
+      svg{
+
+        path{
+          fill: #FF6900;
+        }
+      }
+      span{
+        color: #FF6900;
+      }
+    }
+    span{
+      text-decoration: none;
+      color: black;
+      font-size: 14px;
+      font-weight: 600;
+    }
+  }
+  &-sign_up{
+    cursor: pointer;
+    width: 70px;
+    height: 32px;
+    background-color: #f3f3f7;
+    border: 0;
+    border-radius: 500px;
+    &-text{
+      color: #5c6370;
+      font-size: 14px;
+    }
+  }
+}
